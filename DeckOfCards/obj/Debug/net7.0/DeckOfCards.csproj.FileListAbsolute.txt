@@ -1,0 +1,8 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.MvcApplicationPartsAssemblyInfo.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.RazorAssemblyInfo.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/obj/Debug/net7.0/DeckOfCards.RazorAssemblyInfo.cs

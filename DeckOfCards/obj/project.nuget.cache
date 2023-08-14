@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bav6SsyMHfXW3lSHuXASHSVy7nywiJrvUL6Nh1/2G6vhsUYTID26413jR6GJmIvRW9vwlFEjTlHCmLr+T/j9Lg==",
+  "success": true,
+  "projectFilePath": "/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-6.1-deck-of-cards-api/DeckOfCards/DeckOfCards.csproj",
+  "expectedPackageFiles": [
+    "/Users/doug/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

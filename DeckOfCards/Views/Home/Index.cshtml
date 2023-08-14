@@ -1,0 +1,13 @@
+﻿@model DeckOfCardsModel
+
+<button asp-method="post" asp-action="GetDeck">
+    <p>Reshuffle</p>
+</button>
+@*foreach loop to display all 5 cards in List of Draw5 hand.
+    Only images are necessary.*@
+
+@{
+    foreach (Card c in Model.Cards) {
+        <img src="@c.Images.png" />
+}
+}
